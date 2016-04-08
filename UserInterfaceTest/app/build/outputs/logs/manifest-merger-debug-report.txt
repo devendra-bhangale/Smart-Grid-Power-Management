@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:2:1-131:12
+	package
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-v4:21.0.3] /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.jjoe64:graphview:4.0.1] /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.camera
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:16:19-67
+application
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:18:5-129:19
+MERGED from [com.android.support:support-v4:21.0.3] /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.jjoe64:graphview:4.0.1] /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:21.0.3] /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:19:9-43
+activity#uncc.abilash.edu.Android_SQLActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:22:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:28:27-74
+activity#uncc.abilash.edu.ManageAppliance
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:31:9-41:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:34:13-45
+	android:icon
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:32:13-44
+intent-filter#android.intent.action.ManageAppliance+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.ManageAppliance
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:37:17-80
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:37:25-77
+category#android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:39:27-73
+activity#uncc.abilash.edu.ViewAppliance
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:45:13-43
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:44:13-42
+intent-filter#android.intent.action.ViewAppliance+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.ViewAppliance
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:48:25-75
+activity#uncc.abilash.edu.ViewSchedule
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:54:9-63:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:56:13-42
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:55:13-41
+intent-filter#android.intent.action.ViewSchedule+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:58:13-62:29
+action#android.intent.action.ViewSchedule
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:59:25-74
+activity#uncc.abilash.edu.CheckSchedule
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:65:9-74:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:67:13-43
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:66:13-42
+intent-filter#android.intent.action.CheckSchedule+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:69:13-73:29
+action#android.intent.action.CheckSchedule
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:70:25-75
+activity#uncc.abilash.edu.CheckSchedule_Utility
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:76:9-85:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:78:13-51
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:77:13-50
+intent-filter#android.intent.action.CheckSchedule_Utility+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:80:13-84:29
+action#android.intent.action.CheckSchedule_Utility
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:81:17-86
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:81:25-83
+activity#uncc.abilash.edu.ManageSchedule
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:87:9-96:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:88:13-43
+intent-filter#android.intent.action.ManageSchedule+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:91:13-95:29
+action#android.intent.action.ManageSchedule
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:92:17-79
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:92:25-76
+activity#uncc.abilash.edu.AddAppliance
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:97:9-106:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:100:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:99:13-42
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:98:13-41
+intent-filter#android.intent.action.AddAppliance+android.intent.category.DEFAULT
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:101:13-105:29
+action#android.intent.action.AddAppliance
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:102:17-77
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:102:25-74
+activity#uncc.abilash.edu.RegisterActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:107:9-116:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:109:13-41
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:108:13-45
+intent-filter#android.intent.category.DEFAULT+uncc.abilash.edu.RegisterActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:111:13-115:29
+action#uncc.abilash.edu.RegisterActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:112:17-76
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:112:25-73
+activity#uncc.abilash.edu.UserHomeActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:118:9-128:20
+	android:screenOrientation
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:121:13-49
+	android:label
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:120:13-38
+	android:windowSoftInputMode
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:122:13-55
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:119:13-61
+intent-filter#android.intent.category.DEFAULT+uncc.abilash.edu.UserHomeActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:123:13-127:29
+action#uncc.abilash.edu.UserHomeActivity
+ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:124:17-76
+	android:name
+		ADDED from /home/devendra/AndroidStudioProjects/UserInterfaceTest/app/src/main/AndroidManifest.xml:124:25-73
